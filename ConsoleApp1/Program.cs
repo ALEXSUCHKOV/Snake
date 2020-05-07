@@ -8,7 +8,7 @@ namespace Snake
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.WriteLine("Выберите уровень слодности и введите его номер:");
+            Console.WriteLine("Выберите уровень сложности и введите его номер:");
             Console.WriteLine("1. Лёгкий уровень [поле10х10, скорость медленная]");
             Console.WriteLine("2. Средний уровень [поле15х15, скорость нормальная]");
             Console.WriteLine("3. Сложный уровень [поле20х20, скорость быстрая]");
